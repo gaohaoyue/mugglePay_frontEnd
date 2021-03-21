@@ -1,0 +1,17 @@
+.top{
+    color: grey;
+    font-size: small;
+    margin-bottom: 4px;
+}
+
+.bottom{
+    font-weight: bold;
+}
+
+span:first-child{
+    font-size: large;
+}
+
+span:nth-child(2){
+    font-size: small;
+}
